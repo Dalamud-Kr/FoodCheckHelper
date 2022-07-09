@@ -1,0 +1,6 @@
+﻿name: FoodCheckHelper
+author: Dalamud-kr
+punchline: Extends the game's built-in ready check.
+description: |-
+  Adds food check status icons over the party list.
+repo_url: https://github.com/Dalamud-Kr/FoodCheckHelper

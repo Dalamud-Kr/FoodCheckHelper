@@ -1,0 +1,17 @@
+[
+  {
+    "Author": "Dalamud-kr",
+    "Name": "FoodCheckHelper",
+    "InternalName": "FoodCheckHelper",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Adds food check status icons over the party list.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Dalamud-Kr/FoodCheckHelper",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Extends the game's built-in ready check."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/FoodCheckHelper/main/latest-global.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/FoodCheckHelper/main/latest-global.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/FoodCheckHelper/main/latest-global.zip"
+  }
+]

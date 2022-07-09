@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodCheckHelper", "FoodCheckHelper\FoodCheckHelper.csproj", "{4AAE1BE9-0200-4CE9-8287-1444987CD166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AAE1BE9-0200-4CE9-8287-1444987CD166}.Debug|x64.ActiveCfg = Debug|x64
+		{4AAE1BE9-0200-4CE9-8287-1444987CD166}.Debug|x64.Build.0 = Debug|x64
+		{4AAE1BE9-0200-4CE9-8287-1444987CD166}.Release|x64.ActiveCfg = Release|x64
+		{4AAE1BE9-0200-4CE9-8287-1444987CD166}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576AE572-0ADA-41CA-9152-DA94C87D8679}
+	EndGlobalSection
+EndGlobal
