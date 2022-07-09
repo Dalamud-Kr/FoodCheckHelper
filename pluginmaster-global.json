@@ -9,7 +9,7 @@
     "RepoUrl": "https://github.com/Dalamud-Kr/FoodCheckHelper",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Punchline": "Extends the game's built-in ready check."
+    "Punchline": "Extends the game's built-in ready check.",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-Kr/FoodCheckHelper/main/latest-global.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-Kr/FoodCheckHelper/main/latest-global.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-Kr/FoodCheckHelper/main/latest-global.zip"
